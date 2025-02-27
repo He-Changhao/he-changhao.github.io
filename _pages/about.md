@@ -52,6 +52,7 @@ Shuxian Li#, **Changhao He**#, XitingLiu, Joey Tianyi Zhou, Xi Peng, Peng Hu&dag
 - Propose a novel Variational Contrastive Learning paradigm to learn view-common representation and view-specific one simultaneously.
 - Design a robust inter-view contrastive loss to optimize clean and noisy pairs selectively.
 </div>
+</div>
 
 # 🎖 Honors and Awards
 - *2024.11* National Scholarship
