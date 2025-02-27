@@ -40,6 +40,7 @@ Shuxian Li#, **Changhao He**#, XitingLiu, Joey Tianyi Zhou, Xi Peng, Peng Hu&dag
 - Introducing a novel setting (learning with noisy triplet correspondence) in CIR, thus offering a new design perspective for existing supervised methods.
 - Reframing triplet noise as an adapter mismatch problem and using visual variation modeling to align reference-target modifications.
 </div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/VITAL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
