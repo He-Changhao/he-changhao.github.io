@@ -40,8 +40,6 @@ Shuxian Li#, **Changhao He**#, XitingLiu, Joey Tianyi Zhou, Xi Peng, Peng Hu&dag
 - Introducing a novel setting (learning with noisy triplet correspondence) in CIR, thus offering a new design perspective for existing supervised methods.
 - Reframing triplet noise as an adapter mismatch problem and using visual variation modeling to align reference-target modifications.
 </div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/VITAL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -51,9 +49,8 @@ Shuxian Li#, **Changhao He**#, XitingLiu, Joey Tianyi Zhou, Xi Peng, Peng Hu&dag
 **Changhao He**, Hongyuan Zhu, Peng Hu&dagger;, Xi Peng
 
 [**Paper**](https://github.com/He-Changhao/2024-MM-VITAL/blob/main/figs/VITAL.pdf) | [**Code**](https://github.com/He-Changhao/2024-MM-VITAL) ![GitHub stars](https://img.shields.io/github/stars/He-Changhao/2024-MM-VITAL?style=social&label=Stars)
-- Propose a novel Variational Contrastive Learning paradigm to learn view-invariant representation and view-specific one simultaneously.
+- Propose a novel Variational Contrastive Learning paradigm to learn view-common representation and view-specific one simultaneously.
 - Design a robust inter-view contrastive loss to optimize clean and noisy pairs selectively.
-</div>
 </div>
 
 # 🎖 Honors and Awards
