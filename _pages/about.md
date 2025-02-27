@@ -23,6 +23,7 @@ Our group maintains the [Awesome Noisy Correspondence repository](https://github
 
 
 # 🔥 News
+- *2025.02.27*: &nbsp;🎉🎉 one paper was accepted by Computer Vision and Pattern Recognition (CVPR 2025)! Thanks to all coauthors.
 - *2024.07.16*: &nbsp;🎉🎉 one paper was accepted by ACM Multimedia (ACM MM 2024)! Thanks to all coauthors.
 
 
