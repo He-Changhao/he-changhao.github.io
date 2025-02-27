@@ -23,17 +23,32 @@ Our group maintains the [Awesome Noisy Correspondence repository](https://github
 
 
 # 🔥 News
-- *2025.02.27*: &nbsp;🎉🎉 one paper was accepted by Computer Vision and Pattern Recognition (CVPR 2025)! Thanks to all coauthors.
+- *2025.02.27*: &nbsp;🎉🎉 one paper was accepted by IEEE/CVF Computer Vision and Pattern Recognition (CVPR 2025)! Thanks to all coauthors.
 - *2024.07.16*: &nbsp;🎉🎉 one paper was accepted by ACM Multimedia (ACM MM 2024)! Thanks to all coauthors.
 
 
 # 📝 Publications 
+(#: Equal contribution, &dagger;: Corresponding author )
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/TME.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[<em>**CVPR'25**</em>] [Learning with Noisy Triplet Correspondence for Composed Image Retrieval](https://he-changhao.github.io/)
+
+Shuxian Li#, **Changhao He**#, XitingLiu, Joey Tianyi Zhou, Xi Peng, Peng Hu&dagger;
+
+[**Paper**](https://he-changhao.github.io/) | [**Code**](https://he-changhao.github.io/)
+- Introducing a novel setting (learning with noisy triplet correspondence) in CIR, thus offering a new design perspective for existing supervised methods.
+- Reframing triplet noise as an adapter mismatch problem and using visual variation modeling to align reference-target modifications.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/VITAL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [<em>**ACM MM'24**</em>] [Robust Variational Contrastive Learning for Partially View-unaligned Clustering](https://dl.acm.org/doi/abs/10.1145/3664647.3681331)
 
-**Changhao He**, Hongyuan Zhu, Peng Hu, Xi Peng
+**Changhao He**, Hongyuan Zhu, Peng Hu&dagger;, Xi Peng
 
 [**Paper**](https://github.com/He-Changhao/2024-MM-VITAL/blob/main/figs/VITAL.pdf) | [**Code**](https://github.com/He-Changhao/2024-MM-VITAL) ![GitHub stars](https://img.shields.io/github/stars/He-Changhao/2024-MM-VITAL?style=social&label=Stars)
 - Propose a novel Variational Contrastive Learning paradigm to learn view-invariant representation and view-specific one simultaneously.
