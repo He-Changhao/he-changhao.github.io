@@ -36,7 +36,7 @@ Our group maintains the [Awesome Noisy Correspondence repository](https://github
 
 Shuxian Li#, **Changhao He**#, XitingLiu, Joey Tianyi Zhou, Xi Peng, Peng Hu&dagger;
 
-[**Paper**](https://he-changhao.github.io/) | [**Code**](https://he-changhao.github.io/)
+[**Paper**](https://github.com/CharlesNeilWilliams/TME) | [**Code**](https://github.com/CharlesNeilWilliams/TME)![GitHub stars](https://img.shields.io/github/stars/CharlesNeilWilliams/TME?style=social&label=Stars)
 - Introducing a novel setting (learning with noisy triplet correspondence) in CIR, thus offering a new design perspective for existing supervised methods.
 - Reframing triplet noise as an adapter mismatch problem and using visual variation modeling to align reference-target modifications.
 </div>
