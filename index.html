@@ -39,8 +39,34 @@
                   <p style="text-align:center">
                     <a href="mailto:hechanghao.gm@gmail.com">Email</a> &nbsp;/&nbsp;
                     <a href="https://scholar.google.com.hk/citations?user=-_qdmA4AAAAJ&hl">Google Scholar</a> &nbsp;/&nbsp;
-                    <a href="https://github.com/He-Changhao/">Github</a>
+                    <a href="https://github.com/He-Changhao/">Github</a> &nbsp;/&nbsp;
+
+                    <span style="position:relative; cursor:pointer;">
+                      WeChat
+                      <img src="images/wechat.jpg" 
+                          alt="WeChat QR Code"
+                          style="
+                            display:none;
+                            position:absolute;
+                            top:25px; left:50%;
+                            transform:translateX(-50%);
+                            width:150px; height:150px;
+                            border:1px solid #ddd;
+                            border-radius:8px;
+                            box-shadow:0 4px 8px rgba(0,0,0,0.15);
+                            background:white;
+                            z-index:10;
+                          ">
+                    </span>
                   </p>
+
+                  <script>
+                    const wechat = document.querySelector('span');
+                    const qr = wechat.querySelector('img');
+                    wechat.addEventListener('mouseenter', () => qr.style.display = 'block');
+                    wechat.addEventListener('mouseleave', () => qr.style.display = 'none');
+                  </script>
+
                 </td>
 
                 <td style="padding:2.5%;width:37%;max-width:37%;">
@@ -185,7 +211,7 @@
     <a href="https://www.easycounter.com/">
     <img src="https://www.easycounter.com/counter.php?hch"
     border="0" alt="Hit Counters"></a><br>
-    Last updated: May 2025<br>
+    Last updated: July 2025<br>
     Design and source code from <a href="https://github.com/jonbarron/">Jon Barron</a>
   </div>
 </body>
