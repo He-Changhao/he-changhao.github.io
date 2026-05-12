@@ -102,11 +102,55 @@ h2 {
   font-weight: 700;
 }
 
+.spotlight {
+  color: #c00;
+  font-weight: 700;
+}
+
 .name {
   padding-top: 20px;
   margin: 0;
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 32px;
+}
+
+.profile-photo {
+  width: 80%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  object-position: 40% 20%;
+  border-radius: 8px;
+  display: block;
+}
+
+.paper-thumb {
+  width: 280px;
+  height: auto;
+  display: block;
+}
+
+.link-icon {
+  width: 14px;
+  height: 14px;
+  margin-right: 4px;
+  vertical-align: -2px;
+  display: inline-block;
+  fill: #000;
+}
+
+.brand-icon {
+  width: 14px;
+  height: 14px;
+  margin-right: 4px;
+  vertical-align: -2px;
+  display: inline-block;
+}
+
+
+.link-emoji {
+  margin-right: 4px;
+  vertical-align: -2px;
+  display: inline-block;
 }
 
 .one {
