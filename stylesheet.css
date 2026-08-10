@@ -194,3 +194,26 @@ span.highlight {
     display: inline-block;
     border-radius: 10px;
 }
+
+@media (max-width: 640px) {
+  .publications-list > tbody > tr > td {
+    padding: 8px !important;
+  }
+
+  .publications-list > tbody > tr > td > table {
+    padding: 8px !important;
+  }
+
+  .publications-list > tbody > tr > td > table > tbody > tr > td {
+    box-sizing: border-box;
+    display: block;
+    width: 100% !important;
+    padding: 8px !important;
+  }
+
+  .publications-list .paper-thumb {
+    width: 100%;
+    max-width: 320px;
+    margin: 0 auto;
+  }
+}
